@@ -1,0 +1,1 @@
+RAG combines document retrieval with a language model. It retrieves relevant information from documents to help answer questions.
